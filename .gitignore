@@ -1,0 +1,12 @@
+# Arquivo de configuração local (Chaves de API)
+.env
+
+# Ambientes virtuais do Python
+venv/
+.venv/
+env/
+
+# Arquivos do sistema e cache
+__pycache__/
+*.pyc
+.DS_Store
